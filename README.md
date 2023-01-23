@@ -1,2 +1,4 @@
 # gruvbox-kvantum-themes
-Gruvbox themes for kvantum
+based on kvadapta.
+
+![](/.pic.png)
